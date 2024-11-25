@@ -1,0 +1,64 @@
+collation for xampp database should be  - utf8mb4_unicode_ci
+
+
+---Tourism table fields
+
+id - tinyint(10) PRIMARY_KEY AUTO_INCREMENT NOT NULL
+tourismname - varchar(50); NOT NULL
+location- varchar(50); NOT NULL
+description - text; NOT NULL
+price - float; NOT NULL
+image - varchar(50); NOT NULL
+
+
+---Data
+
+Melbourne
+3000
+Capital of an Australian state with 19th century architecture, Royal Botanic Gardens and art institutes.
+106
+images/melbourne.jpg
+
+
+Phillip Island
+3922
+The island is famous for viewing penguins (Parade penguins), surfing at Woolamai and motor racing.
+177
+images/phillipisland.jpg
+
+
+Grampians National Park
+3314
+Australian National Park with rich wildlife, indigenous rock sculptures & MacKenzie Falls.
+80
+images/grampiansnationalpark.jpg
+
+
+Great Otway National Park
+3314
+Australia's national park is famous for its rugged coastline, the Maits Rest rainforest and Triplet Falls
+90
+images/greatotwaynationalpark.jpg
+
+
+Wilsons Promontory National Park
+3960
+Australian National Park with Squeaky Beach, rich wildlife & landscape seen from Mount Oberon.
+70
+images/wilsonspromontorynatinalpark.jpg
+
+
+Apollo Bay
+3233
+Australian town on Great Ocean Road, with Marriners viewpoint and Great Otway National Park nearby.
+115
+images/apollobay.jpg
+
+
+
+
+
+
+
+
+
